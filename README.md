@@ -1,7 +1,7 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-25-26
 
-<h3>ENTER YOUR NAME  : HARISH GOWTHAM E</h3>
-<h3>ENTER YOUR REGISTER NO : 2305002009</h3>
+<h3>ENTER YOUR NAME  : Dakshinamurthy.V</h3>
+<h3>ENTER YOUR REGISTER NO : 2305001006</h3>
 <h3>EX. NO : 02</h3>
 <h3>DATE : </h3>
 <h2> <align=center> MATRIX SUMMATION WITH A 2D GRID AND 2D BLOCKS </h2>
